@@ -1,0 +1,19 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "image": "images/Cribe_3.png"
+    },
+    {
+      "id": 2,
+      "image": "images/Cribe_3.png"
+    }
+  ],
+  "slider_icons": [
+    {
+      "id": 1,
+      "left_arrow_icon": "images/Arrow_left.svg",
+      "right_arrow_icon": "images/Arrow_right.svg"
+    }
+  ]
+}
